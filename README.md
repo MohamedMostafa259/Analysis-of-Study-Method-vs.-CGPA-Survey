@@ -38,13 +38,15 @@ Convenience sampling was utilized through the second-year EUI CIS students' What
 - The survey will be anonymous to encourage honest responses. 
 - The wording of questions will be neutral and avoid leading answers like the “hands-on practice” study method.
 
-## Survey Questions
+## Survey Questions:
 1. What is your current Cumulative GPA (CGPA)?
 2. Which study method do you primarily use when preparing for final exams? (If your method varies depending on the subject, please choose your most beneficial and preferred one.)<br>
 Written & summarized notes with highlights<br>
 Session with a teacher<br>
 Online resources (e.g., revisions on YouTube)<br>
 Group studies with your friends<br>
+
+[Survey Link](https://forms.gle/y5jrAjDUxjrjynAT8)
 
 ## Analysis
 The analysis of the collected responses yielded the following insights:
